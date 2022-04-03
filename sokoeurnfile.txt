@@ -3,4 +3,8 @@ new member make some changes to the old file.--Jane
 more changes to the exist code. more more.--Jane02
 more changes.--Jane03
 more changes.--Sokoeurn04
+<<<<<<< HEAD
 int a = 5. sokoeurn06
+=======
+int a = 5. sokoeurn05
+>>>>>>> 750ce74ff88ab183c193761453d60828054f7213
